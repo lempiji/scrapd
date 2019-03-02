@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/scrap
+scrap.so
+scrap.dylib
+scrap.dll
+scrap.a
+scrap.lib
+scrap-test-*
+*.exe
+*.o
+*.obj
+*.lst
